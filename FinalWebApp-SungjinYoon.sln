@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalWebApp-SungjinYoon", "FinalWebApp-SungjinYoon\FinalWebApp-SungjinYoon.csproj", "{0474642F-05F3-4909-9E29-C467543E329F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBLib", "DBLib\DBLib.csproj", "{A8344147-22D4-4D91-8FDD-59C070CFD543}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0474642F-05F3-4909-9E29-C467543E329F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0474642F-05F3-4909-9E29-C467543E329F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0474642F-05F3-4909-9E29-C467543E329F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0474642F-05F3-4909-9E29-C467543E329F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8344147-22D4-4D91-8FDD-59C070CFD543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8344147-22D4-4D91-8FDD-59C070CFD543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8344147-22D4-4D91-8FDD-59C070CFD543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8344147-22D4-4D91-8FDD-59C070CFD543}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F5C6072-0D08-4E69-8EB9-DD6F8CEFAA40}
+	EndGlobalSection
+EndGlobal
